@@ -25,8 +25,6 @@ https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u
 
 #EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias em português",CNN Brasil
 https://searchtv.net/stream/uuid/32d8npdn/
-#EXTINF:-1 tvg-id="CNNBrasil.br" tvg-logo="https://i.imgur.com/5AK7gLc.png" group-title="Brasil: notícias em português",CNN Brasil - link 1 | YouTube
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/CNNbrasil/live
 
 
 #EXTINF:-1 tvg-id="6102e04e9ab1db0007a980a1" tvg-logo="https://i.imgur.com/iC5UoAN.png" group-title="Brasil: notícias em português",Record News | Pluto TV Brasil
@@ -41,12 +39,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/recor
 
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades em português",Band | RBA TV - PA - Brasil
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-#EXTINF:-1 tvg-id="BandSP.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades em português",Band SP | Brasil
-https://stream-04.sv4.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm43zh8Y45ZL-LIiOKDVLm37WuO66vc37IUytdQYg_vR99)/dm/3/x83vbd6/s/live-3.m3u8
-#EXTINF:-1 tvg-id="BandRS.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades em português",Band RS | Brasil
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/BandRS/live
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6M73DBe.png" group-title="Brasil: variedades em português",BCC TV | Brasil
-https://video01.kshost.com.br/bccinternational523/bccinternational523/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="RedeTV.br" tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="Brasil: variedades em português",Rede TV | Tocantins
