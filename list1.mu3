@@ -17,6 +17,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9
 #EXTINF:-1 tvg-id="RecordNews.br" tvg-logo="https://i.imgur.com/iVlD2qP.png" group-title="Brasil: notícias em português",Record News - ES
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades em português",Band
+https://stream-02.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm4wwybOCCz5FNQKug9wE_SAIwUwl8TrvbmAorul-ufZ9L)/dm/3/x83vbd6/s/live-0.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-logo="https://i.imgur.com/b92nQTD.png" group-title="Brasil: variedades em português",Band - PA
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
 
